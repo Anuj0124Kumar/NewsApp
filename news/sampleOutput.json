@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "NI Protocol: UK and EU on brink of new Brexit deal",
+            "description": "The PM made \"good progress\" on Friday, No 10 says, as negotiations are set to continue over the weekend.",
+            "url": "http://www.bbc.co.uk/news/uk-politics-64765375",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/79D0/production/_128748113_e49f7b8243108ea6c670e6292725599c7a1c4aff.png",
+            "publishedAt": "2023-02-25T09:52:18.1134428Z",
+            "content": "The UK and the European Union appear to be on the brink of completing a new Brexit deal for Northern Ireland.\r\nA No 10 source describes the negotiations as \"positive\".\r\nKing Charles had also been due… [+2527 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Peru recalls ambassador over Mexico's 'unacceptable' support for Pedro Castillo",
+            "description": "Mexico's president described Dina Boluarte's government as \"unconstitutional\", sparking fury in Peru.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-64769382",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/52CA/production/_128749112_1696c6f6600948a163d6cff6a9f5b40bbc2a2f6e.jpg",
+            "publishedAt": "2023-02-25T09:22:26.9100066Z",
+            "content": "Peru has recalled its ambassador in Mexico indefinitely after Mexico's president said Peru's government was \"unconstitutional\". \r\nAndres Manuel Lopez Obrador also said that Peru's former president, P… [+1383 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "How a 'priceless' Pet Shop Boys letter ended up in an Altrincham record shop",
+            "description": "A letter from Neil Tennant to Radio 1 DJ Janice Long is found inside a vintage copy of West End Girls.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-64756601",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EA8C/production/_128744006_gettyimages-93180703.jpg",
+            "publishedAt": "2023-02-25T09:22:18.7870268Z",
+            "content": "A letter written by Pet Shop Boys star Neil Tennant, thanking Radio 1's Janice Long for playing the band's debut single in 1984, has been discovered in a record shop in Altrincham.\r\nThe note was tuck… [+4780 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "'Multiple' new Lord of the Rings films in the pipeline",
+            "description": "The news was announced at a Warner Bros meeting, confirming a deal was made with the rights owners.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-64759120",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/125EC/production/_128744257_mediaitem128744256.jpg",
+            "publishedAt": "2023-02-25T09:22:14.7233906Z",
+            "content": "Warner Bros have confirmed that more Lord of the Rings films are on the way over the next few years.\r\nThe original films, whose stars included Sir Ian McKellen, Elijah Wood and Orlando Bloom, took ab… [+1630 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Russia interrupts UN minute's silence for Ukraine",
+            "description": "The Russian ambassador said he wanted the UN to commemorate everyone who has died in Ukraine since 2014.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64766558",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EF5A/production/_128747216_p0f592by.jpg",
+            "publishedAt": "2023-02-25T08:07:20.7389579Z",
+            "content": "Russian ambassador Vasily Nebenzya interrupted a minute's silence at the UN to mark a year since the war in Ukraine started.\r\nAfter the interjection, the silence continued after a short delay."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nigeria election 2023: Polls open in crucial vote",
+            "description": "Voting gets under way in the race to decide who leads Africa's most populous nation.",
+            "url": "http://www.bbc.co.uk/news/live/world-africa-64738341",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-02-25T07:52:23.9100296Z",
+            "content": "On a normal day residents would be driving through this huge gate in an estate on the outskirts of Nigeria's capital, Abuja, but today is not your usual Saturday, so it has be repositioned as a polli… [+995 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Rare snow dusts Hollywood sign as winter storm tightens grip",
+            "description": "San Francisco breaks a 132-record low temperature, and snow is forecast for the Mojave Desert.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64768453",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A586/production/_128747324_2db6992a97095b3430460ecdd061808c730286630_0_6169_41121000x667.jpg",
+            "publishedAt": "2023-02-25T03:22:13.3177621Z",
+            "content": "Snowflakes have been falling in Los Angeles, including around its iconic Hollywood sign, as a winter storm tightens its icy grip on southern California this weekend.\r\nSan Francisco broke a 132-year r… [+2397 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Turkish journalists detained over earthquake reports",
+            "description": "Press freedom groups criticise a new \"disinformation law\" used to target reporting on the disaster.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64759377",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13DA0/production/_128721318_whatsappimage2023-02-22at1.38.54pm.jpg",
+            "publishedAt": "2023-02-25T00:52:18.3946096Z",
+            "content": "Freelance journalist Mir Ali Koçer was 200 miles from the epicentre when Turkey was struck by a deadly earthquake on 6 February. Grabbing his camera and microphone, he drove down to the affected regi… [+5165 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Zelensky keen to meet Xi following China's peace plan",
+            "description": "Ukraine's leader said the call for talks and a ceasefire showed Beijing was \"preparing to take part\".",
+            "url": "http://www.bbc.co.uk/news/world-europe-64762219",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/27BE/production/_128747101_mediaitem128747097.jpg",
+            "publishedAt": "2023-02-24T22:37:19.3501381Z",
+            "content": "President Volodymyr Zelensky has welcomed elements of a Chinese proposal for a ceasefire, on the anniversary of Russia's invasion of Ukraine.\r\nChina has called for talks between Russia and Ukraine, s… [+4362 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: The real reason for China's charm offensive over Ukraine and Russia",
+            "description": "The West may come away unimpressed - but convincing them was never likely the main goal for Beijing.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-64754510",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/149EF/production/_128736448_06b3a75cee41e9738153dd22e68623b1646fe13d0_368_4368_24574368x2457.jpg",
+            "publishedAt": "2023-02-24T16:37:27.3170628Z",
+            "content": "Over the past year the West has tried to cajole China to help them end the Ukraine war. Now Beijing has given its firmest response yet - and it's not something many in the West would like.\r\nIn recent… [+5916 chars]"
+        }
+    ]
+}
